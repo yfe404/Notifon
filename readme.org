@@ -1,0 +1,12 @@
+* Notifon
+
+#+BEGIN_QUOTE
+Notifon is a project to notify Slack users on changes to your AWS account using CloudWatch Events.
+#+END_QUOTE
+
+
+** Features
+
+Notifon currently has the following features:
+
+- 
