@@ -1,3 +1,4 @@
 *.pem
 /config.dev.json
 *~
+node_modules
